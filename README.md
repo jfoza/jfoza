@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**jfoza/jfoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer with experience in building solutions that truly make a difference.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+Throughout my professional journey, I've worked on developing various applications, with a special focus on backend development. I have experience with technologies such as:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages & Frameworks:** PHP, Node.js, TypeScript, SQL, Laravel, NestJS
+- **Frontend:** Vue.js, React.js
+- **DevOps & Infrastructure:** Docker, RabbitMQ (for asynchronous communication and processing)
+
+## 🏗️ Technical Skills
+I have a strong understanding of distributed architectures and RESTful API development. I always prioritize best practices such as:
+
+- Clean Code & Clean Architecture
+- SOLID Principles
+- Domain-Driven Design (DDD)
+- Test-Driven Development (TDD)
+
+I believe that applying these principles helps in building robust, scalable, and maintainable systems.
+
+## 💡 Work Approach
+My experience has taught me the importance of collaboration in agile teams, whether leading projects or directly contributing to development. I always strive to deliver solutions that meet not only technical requirements but also provide an excellent user experience.
+
+📫 Feel free to connect with me!
+
+
